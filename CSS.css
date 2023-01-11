@@ -1,0 +1,29 @@
+*{
+  background-color: #15202B;
+}
+#maind
+{
+    text-align: center;
+    margin-top: 4%;
+}
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9,#b10
+{
+  margin: 9px;  
+  width: 70px;
+  height: 70px;
+  border-radius: 100px;
+  font-size: 50px;
+  text-align: center;
+  
+  color: #581845;
+  background-color: antiquewhite;
+  
+}
+#reset{
+  width: 60px;
+  height: 60px;
+  color: grey ;
+}
+#print{
+  font-size: 30px;
+}
